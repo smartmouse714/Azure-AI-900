@@ -1,7 +1,7 @@
 ![AI-900 Banner](https://i.imgur.com/iM3VRJQ.png)
 
 # Purpose
-I created this repository to help you prepare for the AI-900 exam. Unlike other exams, this one is rather simple as long as you understand the content covered in the official [learning paths](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900). Working through practice questions helped me pass this exam on the first try. [Verify my certification](https://www.youracclaim.com/badges/2384abe2-4840-4c94-86e8-c7ffc2688155)
+I updated this repository to help you prepare for the AI-900 exam. Unlike other exams, this one is rather simple as long as you understand the content covered in the official [learning paths](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900). Working through practice questions helped me pass this exam on the first try. [Verify my certification](https://www.youracclaim.com/badges/2384abe2-4840-4c94-86e8-c7ffc2688155)
 
 __Official Website:__ [Microsoft Azure AI Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900)
 
@@ -10,7 +10,7 @@ __Certification (after passing this exam):__ [Microsoft Certified: Azure AI Fund
 # Practice Questions
 __Disclaimer:__ These practice questions are very similar to the actual exam questions in style and skill level; yet are only indicative and by no means a comprehensive list of questions. Questions have not been transcribed from the real exam, which is against exam policy.
 
-<h5>1. In this computer vision task, individual pixels in an image are classified according to the object to which they belong.</h5>
+<h5>1. In this computer vision task, individual pixels in an image are classified according to the object to which they belong.<h5>
 <ol type="a">
   <li>Object Detection</li>
   <li>Semantic Segmentation</li>
@@ -82,16 +82,16 @@ __Disclaimer:__ These practice questions are very similar to the actual exam que
   <p>Clustering</p>
 </details>
 
-<h5>7. What are the resource types available as Computer Vision service?</h5>
+<h5>==7. What are the resource types available as Azure AI Vision service?==</h5>
 <ol type="a">
   <li>Computer Vision and Computer Cluster</li>
   <li>Computer Key and Computer Endpoint</li>
-  <li>Computer Vision and Computer Services</li>
+  <li>Computer Vision and Azure AI services</li>
   <li>Computer Insights and Computer Services</li>
 </ol>
 <details>
   <summary>Show Answer</summary>
-  <p>Computer Vision and Computer Services</p>
+  <p>Computer Vision and Azure AI services</p>
 </details>
 
 <h5>8. What are the two specialised domain models of Computer Vision?</h5>
@@ -106,7 +106,7 @@ __Disclaimer:__ These practice questions are very similar to the actual exam que
   <p>Celebrities and Landmarks</p>
 </details>
 
-<h5>9. Which of these metrics is not used when model training in Custom Vision?</h5>
+<h5>==9. Which of these metrics is not used when model training in Custom Vision?==</h5>
 <ol type="a">
   <li>Precision</li>
   <li>Recall</li>
@@ -142,7 +142,7 @@ __Disclaimer:__ These practice questions are very similar to the actual exam que
   <p>Areas</p>
 </details>
 
-<h5>12. Translation Text uses which model for translation?</h5>
+<h5>==12. Translation Text uses which model for translation?==</h5>
 <ol type="a">
   <li>Neural Network</li>
   <li>SVM</li>
