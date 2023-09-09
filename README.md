@@ -1,7 +1,7 @@
 ![AI-900 Banner](https://i.imgur.com/iM3VRJQ.png)
 
 # Purpose
-I updated this repository to help you prepare for the AI-900 exam. Unlike other exams, this one is rather simple as long as you understand the content covered in the official [learning paths](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900). Working through practice questions helped me pass this exam on the first try. [Verify my certification](https://www.youracclaim.com/badges/2384abe2-4840-4c94-86e8-c7ffc2688155)
+I updated this repository to help you prepare for the AI-900 exam. Unlike other exams, this one is largely nontechnical as long as you understand the content covered in the official [learning paths](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900). Working through practice questions helped me pass this exam on the first try. [Verify my certification](https://learn.microsoft.com/api/credentials/share/en-us/TianXie-0451/F4DFF81B4AC86BDE?sharingId=E4B9B1BD35BB1650)
 
 __Official Website:__ [Microsoft Azure AI Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900)
 
@@ -82,7 +82,7 @@ __Disclaimer:__ These practice questions are very similar to the actual exam que
   <p>Clustering</p>
 </details>
 
-<h5>==7. What are the resource types available as Azure AI Vision service?==</h5>
+<h5>7. What are the resource types available as Azure AI Vision service?</h5>
 <ol type="a">
   <li>Computer Vision and Computer Cluster</li>
   <li>Computer Key and Computer Endpoint</li>
@@ -106,7 +106,7 @@ __Disclaimer:__ These practice questions are very similar to the actual exam que
   <p>Celebrities and Landmarks</p>
 </details>
 
-<h5>==9. Which of these metrics is not used when model training in Custom Vision?==</h5>
+<h5>9. Which of these metrics is not used when model training in Custom Vision?</h5>
 <ol type="a">
   <li>Precision</li>
   <li>Recall</li>
@@ -142,7 +142,7 @@ __Disclaimer:__ These practice questions are very similar to the actual exam que
   <p>Areas</p>
 </details>
 
-<h5>==12. Translation Text uses which model for translation?==</h5>
+<h5>12. Translation Text uses which model for translation?</h5>
 <ol type="a">
   <li>Neural Network</li>
   <li>SVM</li>
