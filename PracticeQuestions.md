@@ -1,7 +1,7 @@
 # Practice Questions
 __Disclaimer:__ These practice questions are very similar to the actual exam questions in style and skill level; yet are only indicative and by no means a comprehensive list of questions. Questions have not been transcribed from the real exam, which is against exam policy.
 
-<h5>1. In this computer vision task, individual pixels in an image are classified according to the object to which they belong.<h5>
+<h5>1. In this computer vision task, individual pixels in an image are classified according to the object to which they belong.</h5>
 <ol type="a">
   <li>Object Detection</li>
   <li>Semantic Segmentation</li>
